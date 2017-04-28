@@ -1,0 +1,81 @@
+
+// K
+
+$story-colors: #af0000 #de6e00 #f5db00 #00880d #002562 #450258
+
+
+// RESET
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em,
+font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td
+  margin: 0
+  padding: 0
+  border: 0
+  outline: 0
+  vertical-align: baseline
+  background: transparent
+
+li
+  display: block
+
+
+// TOPLEVEL
+
+html, body
+  background-color: #333
+
+html
+  font-size: 62.5%
+
+
+// TIMELINE
+
+#timeline
+  background-color: #181818
+  border-bottom: 1px solid #555
+  border-top: 1px solid #555
+  margin-top: 10em
+
+  .story
+    height: 2em
+    position: relative
+
+    &:hover
+      background-color: #111
+
+  .block
+    box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.15) inset, 1px 1px 0 rgba(255, 255, 255, 0.1) inset
+    height: 100%
+    min-width: 1px
+    position: absolute
+
+@each $color in $story-colors
+  #story-#{index($story-colors, $color)} .block
+    background-color: $color
+
+    &:hover
+      background-color: lighten($color, 10%)
+
+
+// LAYOUT
+
+#timeline
+  box-shadow: 0 0 2em rgba(0, 0, 0, 0.4)
+
+  .timeline-mini
+    background-color: #555
+
+    .block
+      box-shadow: none
+    .story
+      height: 0.5em
+
+  .timeline-main
+    padding: 1em 0
+
+    .story
+      height: 3em
+

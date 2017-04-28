@@ -1,0 +1,253 @@
+timecode,story,scene (overall),scene (order),scene (chron),transition type,transition notes,JS,BW,HB,JB,DB,TH,HG,HW,SS,KD,JD,ZX,DG,Audio Type,Audio Source,Description,Notes
+0:00,n/a,,,alt,,,,,,,,,,,,,,,,,,studio credits,
+23:10,6,1,1,26,n/a,,,,,,,x,,,,,,,,,,campfire,intro film
+1:41:19,1,2,1,1,"actor,dialogue",,x,,,,,x,,,,,,,,,,meeting on beach,
+2:07:20,3,3,1,7,,,,,x,,,,,,,,,,,,,driving to swanneke,
+2:32:02,4,4,1,22,,,,,,x,,,,,,,,,,,,typing the book,
+2:48:18,2,5,1,18,,,,x,,,,,x,,,,,,,,,last letter; suicide prep,
+3:16:15,5,6,1,29,,,,,,,x,,,,,,x,,,,,final archivist interview start,
+3:37:11,3,7,1,7,,,,,x,,,,,,,,,,,,,driving to swanneke (cont),
+3:50:06,4,8,1,22,,,,,,x,,,,,,,,,,,,typing the book (cont),talking to nobody in particular
+4:00:14,1,9,1,1,,,x,,,,,x,,,,,,,,,,meeting on beach (cont),weak meat strong eat
+4:20:04,5,10,1,29,,,,,,,x,,,,,,x,,,,,final archivist interview (cont),
+4:38:02,2,11,1,18,,,,x,,,,,,,,,,,,,,suicide (cont),but not the actual act
+4:51:07,n/a,,,alt,cut to black,,,,,,,,,,,,,,,,,title card,
+5:02:15,1,12,2,2,,,x,,,,,,x,,,,,,,,,signing of the slave contract,(+establishing shot)
+5:43:15,1,13,3,3,,,x,,,,,x,x,,x,x,,,,,,dinner table conversation,“kupaka very happy”; “what does [god] have to say on the subject of women?”
+6:58:05,1,14,4,4,,,x,,c,,,x,,,,x,,,x,,,whipping scene,Autua and Ewing meet and lock eyes
+8:20:00,1,15,5,5,,,x!,,,,,x,,,,,,,,,,sick ewing’s bedside,
+9:17:22,2,16,2,1,,,,x!,,,,,,,,,x,,,,,sixsmith’s dorm bed,(+establishing shot)
+10:18:12,2,17,3,2,,,,x,,x,,,,,,,x,,,,,frobisher travel montage,explains his plan to meet ayrs via letter to sixsmith
+11:14:08,2,18,4,3,,,,x,x,x,,,,,,,,,,,,first amanuensis session,
+14:28:06,3,19,2,1,music,diegetic => non,,,x!,,,,,,,,x,,,,,elevator,(+establishing shot)
+19:03:04,4,20,2,1,,,,,c,x,,x,,,,,,,,,,felix fookin finch goes for a flyabout,(+establishing shot)
+22:34:05,4,21,3,2,,,,,,x,,,,,,,,,,,,knuckle sandwich media coverage,montage sequence
+22:48:16,4,22,4,3,,,,,,x,,,,,,,,,,,,felix’s goons come to collect,
+24:16:16,5,23,1,29,,,,,,,x,,,,,,x,,,,,the archivist begins,
+25:03:17,5,24,2,1,,,,,,,x,,x,,,,,x,,,,intro to papa song’s,
+25:55:09,5,25,1,29,,,,,,,x,,,,,,x,,,,,“honor thy consumer”,
+25:59:15,5,26,2,1,,,,,,,x,,,,,,,,,,,intro to papa song’s (cont),
+26:15:08,5,27,1,29,,,,,,,x,,,,,,x,,,,,intro to exaltation,
+26:24:10,5,28,3,2,,,,,,,x,,x,,,,,x,,,,exaltation,yuna steals a key
+26:59:21,5,29,4,3,,,,,,,x,,x,,,,,x,,,,sonmi gets woken up,
+27:40:12,5,30,1,29,,,,,,,x,,,,,,x,,,,,“who woke seer rhee?”,
+27:53:00,5,31,4,3,,,,,,,x,,x,,,,,x,,,,yuna shows sonmi the vid,
+29:51:06,5,32,1,29,,,,,,,x,,,,,,x,,,,,“you could have been excised.”,
+30:04:18,5,33,5,4,,,,,,,x,,x,,,,,x,,,,yuna stands up for herself,
+31:24:01,6,34,2,1,,,c,,,,,x,x,x,,,,,,,,kona kill adam at sloosha’s hollow,first appearance of hugo weaving
+33:37:12,6,35,3,2,,,,,,,,x,,,,,,,,,,catkin minds zachry while he minds the goats,first fade cut
+34:56:01,6,36,4,3,,,,,x,,,x,,,,,,x,,,,zachry meets meronym,
+35:31:20,6,37,5,4,,,,,x,,,x,,x,x,,,x,,,,the tribe plies meronym with queries,
+36:31:09,6,38,6,5,,,,,x,,,x,,,,,,,,,,zachry spies on meronym healing,
+36:59:06,6,39,7,6,,,,,,,,x,,,,,,,,,,zachry has a dream,start of flashforward sequence
+36:59:13,6,40,25?,24,,,,,,,,,,x,,,,,,,,georgie awaits zachry at sloosha’s,
+36:59:22,2,41,11?,10,,,,x,,x,,,,,,,,,,,,frobisher at vyvyan’s bedside,
+37:01:06,6,42,7,6,,,,,,,,x,,,,,,,,,,zachry has a dream (cont),reinforces the reading of this montage as a dream
+37:01:10,6,43,2,1,,,c,,,,,,x,,,,,,,,,adam getting killed,
+37:01:21,2,44,11?,10,,,,x,,x,,,,,,,,,,,,frobisher at vyvyan’s bedside,
+37:02:03,1,45,4,4,,,,,,,,,,,,,,,x,,,autua at whipping post,the establishing shot of gyasi is literally one frame
+37:03:12,6,46,3,2,,,,,,,,x,,,,,,,,,,close-up of zachry’s necklace,
+37:03:17,1,47,4,4,,,,,,,,,,,,,,,x,,,autua at whipping post,"also tom hanks was in this scene, but the camera focus is on the post; averted gaze"
+37:04:02,6,48,??,alt,,,,,,,,x,,x,,,,,,,,!!,only bit in this dream sequence that isn’t elsewhere in the film
+37:04:16,5,49,4,3,,,,,,,x,c,,,,,,x,,,,yuna shows sonmi the vid,
+37:05:04,4,50,2,1,,,,,c,,,x,,,,,,,,,,dermot looks at halle berry,first past life connection??
+37:05:10,6,51,4,3,actor,HB,,,x,,,,,,,,,,,,,zachry meets meronym,connects the love stories
+37:05:16,3,52,13?,13,actor,HB,,,x,,,,,os,,,,,,,,luisa is forced off the bridge,this is actually an alternate angle to that we see in the story; rather neat
+37:07:04,6,53,3,2,,,,,,,,x,,,,,,,,,,zachry sits by the cliff,"again, this angle isn’t the same (??)"
+37:07:12,6,54,2,1,,,,,,,,x,,x,,,,,,,,georgie terrorizes zachry at sloosha,
+37:07:23,3,55,13?,13,,,,,x,,,,,os,,,,,,,,luisa is forced off the bridge,"again, an alt angle"
+37:09:07,6,56,7,6,,,,,,,,x,,,,,,,,,,zachry wakes up,
+37:14:20,6,57,8,7,,,,,,,,x,,,x,,,,,,,zachry seeks abbess’ advice,
+38:26:13,5,58,6,5,"dialogue,character",sonmi,x,,,,x,,,,,,,,,,,hae joo breaks in; sonmi breaks out,
+39:48:14,1,59,6,6,,,x,,,x,,,,,,,,,,,,the ship sets off,
+40:29:14,2,60,4,3,literal,pacific journal,,x,,x,,,,,,,,,,,,becoming artistic partners,v.o. montage
+41:19:17,3,61,3,2,literal,letters,,,x,,,,os,,,,x,,,,,sixsmith makes a decision,also an incredible split-screen transition (tr-3)
+42:13:01,4,62,5,4,,,,,,x,,,,,,,,,,,,cavendish makes some calls,
+43:34:09,4,63,6,5,,,,x,,x,,,x,,,,,,,,,cavendish calls on his brother,
+44:41:20,1,64,7,7,dialogue,“a place to hide”,x,,,,,,,,,,,,x,,,autua reveals himself to ewing,
+46:16:21,6,65,9,8,,,,,x,,,sx,,,,,,,c,,,meronym reveals her goal,
+46:49:08,3,66,4,3,,,,,x,,,,,x,,,x,,,,,sixsmith meets his fate,(and luisa nearly meets hers)
+48:05:16,5,67,7,6,match cut ? (tbd),hallway,x,,,,x,,,,,,,,,,,sonmi makes her escape,
+48:26:14,3,68,5,4,,,,,x,,,,,,,,x,c,,,,sixsmith’s fate is revealed,
+49:16:06,2,69,5,4,literal,letters => person,,x,x,x,,,,x,,,,,,,,ayrs & frobisher present their latest,tbd: define HW’s role here | +v.o.
+50:50:12,6,70,10,9,,,,,x,,,x,x,,,,,,,,,bridge broken; hide below,
+52:27:18,4,71,7,6,audio,horse => train,,,,x,,,,,,,,,,,,cavendish takes a train to edinburgh,
+53:09:20,6,72,11,10,,,,,,,,x,,,x,,,,,,,zachry consults the abbess again,
+53:32:03,5,73,8,7,character,sonmi,x,,,,x,,,,,,,,,,,sonmi crosses a threshold,
+53:38:02,2,74,6,5,dialogue,"“past""",,x,,,,,,,,,,,,,,frobisher composes alone,
+53:40:13,4,75,8,7,dialogue,“and present”,,,,x,,,,,,,,,,,,cavendish visits a memory,
+53:43:05,3,76,6,5,dialogue,“and by each crime”,,,x,,,,,,,,,,,,,luisa reads frobisher’s letters,kid appears in the background (fake-out?)
+53:47:14,1,77,8,8,dialogue,“and every kindness”,x,,,,,sx,,,,,,,,,,ewing steals food for autua,
+53:53:08,5,78,9,8,dialogue,“we birth our future”,x,,,,x,,,,,,,,,,,sonmi (finalllllly) emerges,
+54:08:00,1,79,9,9,,,x,,,,,,,,,,,,x,,,autua feasts,
+55:28:06,3,80,6,5,,,,,x,,,,,,,,,,,,,luisa reads frobisher’s letters (cont),
+56:00:12,2,81,7,6,literal+character,“old letters”+HB,,x,x,,,,,,,,,,,,,jocasta and i have become lovers,
+56:49:16,3,82,7,6,literal,sextet record,,x,x,,,,,,,,,,,,,luisa finds a record of the sextet,and BW enjoys his own work
+57:41:00,4,83,9,8,,,,,,x!,,,,,x,,,,,,,cavendish visits a memory (cont),?? there is a flashback here but does it merit a scene?
+59:01:11,6,84,12,11,dialogue,"“door""",,,,,,x,,,x,,,x,,,,catkin falls ill,
+59:34:16,5,85,10,9,actor,zachry seeks HB,x,,x,,x,,,,,,,,,,,sonmi’s collar is removed,
+59:50:06,6,86,13,12,,,,,x,,,x,,,,,,,,,,zachry seeks meronym,
+59:55:23,5,87,10,9,,,x,,x,,x!,,,,,,,,,,,sonmi’s collar is removed (cont),
+1:00:16:19,6,88,13,12,,,,,x,,,x,,,,,,,,,,zachry pleas with meronym,
+1:01:21:14,4,89,10,9,,,,,,x,,,,,,,,,,,,cavendish checks in,establishing shot reveals that this is ayrs’ house
+1:01:48:02,5,90,11,10,,another door,x,,,,x,,,,,,,,,,,sonmi is shown her room,
+1:02:34:08,6,91,14,13,,,,,x,,,x,,,,,,x,,,,zachry administers the medicine,
+1:03:03:17,5,92,11,10,,,x,,,,x,,,,,,,,,,,sonmi is shown her room (cont),
+1:03:30:00,5,93,1,29,,,,,,,x,,,,,,x,,,,,??,
+1:03:41:02,6,94,14,13,,,,,x,,,x,,,,,,x,,,,catkin recovers,
+1:04:08:02,5,95,15,14,,,x,,,,x,,,,,,,,,,,hae joo shows sonmi the full viddy,
+1:04:46:05,4,96,11,10,literal,ghastly ordeal title,,,,x,,,,x,,,,,,,,nurse noakes introduces herself,
+1:05:45:00,3,97,1,7,,,,,x,,,,x,,,x,,,,,,luisa goes to swanneke,finally caught up w intro scene
+1:06:27:21,4,98,12,11,,door,,,,x,,,,,,,,,,,,cavendish has some complaints,
+1:08:01:01,5,99,15,14,literal,reality => scene,x,,,,x,c,,,,,,,,,,still watching the viddy,
+1:08:29:19,4,100,13,12,,,,,,x,,,,,,,,,,,,cavendish makes a run for it,"if you didn’t get this was ayrs’ house before, you do now"
+1:09:25:02,5,101,1,29,,,,,,,x,,,,,,x,,,,,??,
+1:09:43:10,5,102,16,15,dialogue+character,“hae joo”,x,,,,x,,,,,,,,,,,sonmi has some doubts (??),
+1:10:06:18,6,103,15,14,,,,,x,,,x,,,,,,,,,,zachry and meronym depart,
+1:10:16:19,5,104,17,16,,,,,,,x,,,,,,,,,,,sonmi frees her mind,
+1:10:28:21,1,105,10,10,,door,x,c,,x,,,,,,,,,,,,ewing reports the stowaway,
+1:11:07:00,5,106,1,29,,,,,,,x,,,,,,x,,,,,??,
+1:11:14:01,5,107,18,17,,,,,,,x,,,,,,,,,,,sonmi casts off her old identity,
+1:11:28:08,3,108,8,8,,,,,x,,,,x,,,,,,,,,okay. what would dad do?,
+1:12:10:12,4,109,14,13,,,,x,,x,,,x,x,,,,,,,,cavendish places a late-night call,
+1:14:01:21,5,110,1,29,,,,,,,x,,,,,,x,,,,,??,
+1:14:11:00,5,111,19,18,,,x,,,,x,,,,,,,,,,,sonmi listens to hae joo’s heart,
+1:14:25:02,2,112,8,7,,door,,x,,x,,,,,,,,,,,,ayrs forgets his dream music,nightmarish cafe (reference)
+1:15:47:04,3,113,9,9,,,,,x,,,x,,,,,,,,,,luisa does some illicit digging,end-of-scene door
+1:15:53:00,5,114,19,18,,,x,,,,x,,,,,,,,,,,heartbeat; hae joo awakens,direct continuation (first? only?)
+1:16:02:19,3,115,9,9,,door,,,x,,,x,,,,,,,,,,luisa is found,
+1:16:11:05,5,116,19,18,plot,x are found,x,,,,x,,,,,,,,,,,sonmi is found,
+1:17:09:06,1,117,11,11,,,x,,,x,,x,,,,,,,x,,,autua’s job interview is set,
+1:18:12:21,5,118,19,18,,door (blasted),x,,,,x,,,,,,,,,,,skywalk fight,
+1:18:31:20,1,119,11,11,match cut,feet,x,,,x,,x,,,,,,,x,,,autua rigs a sail,
+1:18:52:23,5,120,19,18,rev. match cut,gunshot => lasers,x,,,,x,,,,,,,,,,,hae joo takes a tumble,
+1:19:19:17,1,121,11,11,loose match cut,o.s. reaction,x,,,x,,x,,,,,,,x,,,autua takes a leap,
+1:20:00:22,3,122,10,10,,,,,x,,,x,x,,,,,,,,,sachs covers for luisa,she’s blocked between the characters; she’s what separates them
+1:20:20:11,3,123,11,11,,,,,x,,,x,,,,,,,,,,luisa and sachs chat outside,first intra-story scene cut in quite a while
+1:21:24:11,4,124,15,14,,,,,,x,,,,,,,,,,,,??,
+1:21:33:23,5,125,20,19,plot,trapped characters,,,,,x,,,x,,,,,,,,mephi decrees sonmi’s fate,short-sided blocking on DB; claustrophobia being confined now that her mind is free
+1:23:43:19,1,126,12,12,,,x,,,,,x,,,,,,,,,,ewing is poisoned some more,
+1:24:01:03,3,127,11,11,actor,TH,,,x,,,x,,,,,,,,,,luisa and sachs chat outside (cont),sachs makes a decision (monologue is revealing about character traits)
+1:25:27:12,6,128,16,15,actor,TH,,,x,,,x,,,,,,,,,,zachry and meronym camp,discussing old’ns’ hunger in they hearts (decisions+consequences)
+1:26:26:20,3,129,12,12,actor,TH,,,,,,x,,x,,,,,,,,zachry’s decision is set,"“belief, like fear, or love, is a force to be understood as we understand the theory of relativity and principles of uncertainty:”"
+1:26:41:01,6,130,17,16,actor+v.o.,TH,,,x,,,x,,,,,,,,,,zachry and meronym climb,“phenomena that determine the course of our lives.”
+1:26:44:12,1,131,13,13,actor+v.o.,TH+”yesterday”,x,,,,,x,,,,,,,,,,dr goose steals ewing’s shiny button,"“yesterday, my life was headed in one direction.”"
+1:26:51:11,3,132,13,13,actor+theme+v.o.,TH+”today”,,,x,,,,,,,,,,,,,luisa checks for sachs’ leak,"“today, it is headed in another.” (tarantino trunk shot!)"
+1:26:57:06,4,133,16,15,literal+v.o.,halflives+”y'day”,,,,x,,,,,,,,,,,,note slid under cavendish’s door,"“yesterday, i believe i would never have done”"
+1:27:00:11,5,134,21,20,v.o.,"“today""",,,,,x,,,,,,,,,,,sonmi peers out of her cell,“what i did today”
+1:27:02:23,2,135,9,8,v.o.,,,x,,,,,,,,,,,,,,frobisher composes alone,“these forces that often remake time and space—”
+1:27:08:01,4,136,16,15,v.o.,,,,,x,,,,,,,,,,,,note under door (cont),“that can shape and alter who we imagine ourselves to be—”
+1:27:09:22,5,137,21,20,v.o.,,,,,,x,,,,,,,,,,,sonmi peers out of her cell (cont),“begin long before we are born”
+1:27:11:23,6,138,18,17,v.o.,,,,x,,,x,,,,,,,,,,zachry and meronym climb,“and continue after we perish”
+1:27:19:17,1,139,14,14,v.o.,,x,,,,,,,,,,,,x,,,autua brings ewing food,"“our lives and our choices, like quantum trajectories”"
+1:27:24:21,2,140,9,8,v.o.,,,x,,,,,,,,,,,,,,frobisher composes alone (cont),“are understood moment to moment;”
+1:27:28:07,6,141,18,17,v.o.,,,,x,,,x,,,,,,,,,,zachry and meronym climb (cont),“and each point of intersection”
+1:27:30:09,3,142,13,13,v.o.,,,,x,,,,,x,,,,,,,,luisa departs; smoke follows,“each encounter”
+1:27:34:05,5,143,22,21,v.o.,,,,,,x,,,,,,,,,,,sonmi is fetched for execution,“suggest a new potential direction.”
+1:27:39:18,3,144,13,13,v.o.+dialogue+audio,“luisa rey”+piano,,,x,,,,,os,,,,,,,,luisa drives onto swanneke bridge,“proposition: i have fallen in love with luisa rey.”
+1:27:46:02,3,145,14,14,v.o.+audio,more sextet piano,,,,,,x,,,,,,,,,,sachs concludes his soliloquy,"“is this possible? i just met her, and yet… i feel like something important has happened to me.”"
+1:28:04:19,2,146,9,8,audio,low piano note,,x,,x,,,,,,,,,,,,ayrs finds frobisher writing sextet,(audio is diegetic underlying v.o.)
+1:28:13:21,3,147,13,13,,,,,x,,,,,x,,,,,,,,luisa takes a swim,third angle of this stunt
+1:28:55:06,2,148,9,8,L cut,sextet being played,,x,,x,,,,,,,,,,,,frobisher has a minor misunderstanding,
+1:32:06:10,5,149,22,21,plot,silenced outcasts,x,,,,x,,,,,,,,,,,hae joo to the rescue,
+1:32:49:07,4,150,17,16,,,,,,x,,,,,,,,,,,,cavendish attends a secret meeting,
+1:32:57:14,2,151,10,9,L cut (v.o.),frobisher’s letter,,vo,,,,,,,,,x,,,,,sixsmith packs for edinburgh,
+1:33:10:07,5,152,23,22,audio,slam+thruster,x,,,,x,,,,,,,,,,,hae joo and sonmi escape,
+1:33:47:00,4,153,17,16,"plot, sort of",escaping,,,,x,,,,,,,,,,,,the team plot their escape,
+1:34:42:18,5,154,23,22,"plot, sort of",escaping,x,,,,x,,,,,,,,,,,hae joo and sonmi escape (cont),
+1:35:07:15,2,155,11,10,,,,,,,,,,,,,x,,,,,sixsmith takes the train to edinburgh,
+1:35:17:09,1,156,15,15,vo-dialogue+char,“adam ewing”,x,,,,,x,,,,,,,,,,ewing loses his wedding band,
+1:35:44:04,4,157,18,17,,,,,,x,,,,x,,,,,,,,cavendish stages a distraction,
+1:36:25:16,2,158,11,10,actor,very different JBs,,x,,x,,,,,,,,,,,,frobisher steals vyvyan’s gun,
+1:36:57:09,6,159,19,18,L cut,“there is no going back”,,,x,,,x,,,,,,,,,,zachry&meronym scale a cliff,
+1:37:35:20,5,160,23,22,dialogue,“fall” => fall,x,,,,x,,,,,,,,,,,hae joo and sonmi escape (cont),
+1:38:16:08,6,161,19,18,,,,,x,,,x,,x,,,,,,,,zachry&meronym scale a cliff (cont),
+1:39:18:12,5,162,23,22,,,x,,,,x,,,,,,,,,,,hae joo and sonmi escape (cont),
+1:40:19:14,6,163,19,18,dialogue?,“power to change this world”,,,x,,,x,,,,,,,,,,zachry&meronym scale a cliff (cont),and zachry makes a decision
+1:40:53:21,5,164,23,22,,,x,,,,x,,,,,,,,,,,hae joo and sonmi escape (cont),
+1:41:43:11,6,165,20,19,score,,,,x,,,x,,,,,,,,,,z&m find the comms station,
+1:41:55:16,2,166,12,11,reverse-shot door,door,,x,,x,,,,,,,,,,,,frobisher tries to leave; ayrs objects,
+1:42:59:00,1,167,16,16,literal,missing journal half,x,,,,,x,,,,,,,,,,dr goose “soothes” ewing,(by trying to steal his trunk key)
+1:43:36:16,5,168,23,22,actor+dialogue,“think of tilde”,x,,,,x,,,,,,,,,,,hae joo and sonmi escape (cont),
+1:44:35:09,3,169,13,13,circumstance,surge of water,,,x,,,,,,,,,,,,,luisa takes a swim (cont),takes 16min to resolve this cliffhanger!
+1:45:13:09,6,170,20,19,L cut+dialogue,“the dead never stay dead”,,,x,,,x,,,,,,,,,,z&m find sonmi in comms station,
+1:46:22:19,5,171,24,23,character,sonmi,x,,,,x,,,,,,,,,,,hj&s navigate a treacherous market,
+1:46:51:10,3,172,14,14,,door,,,x,,,,,,,x,,,,,,javier lets luisa in; an intruder snoops,tension-building transition out
+1:47:26:17,6,173,20,19,tension,drawn R.H. fist,,,,,,,,,,,,,,,,meronym finds the control panel,
+1:48:17:23,5,174,24,23,character,"sonmi, again",x,,,,x,,,,,,,,,,,sonmi meets herself,
+1:48:44:16,6,175,20,19,character,other sonmi,,,x,,,x,,x,,,,,,,,meronym describes sonmi’s life,and ol’ georgie has had enough
+1:50:04:20,3,176,14,14,rev shot+actor,HB,,,x,,,,,,,x,,,,,,luisa meets joe; they puzzle,
+1:51:03:19,6,177,20,19,actor,"HB, again",,,x,,,x,,x,,,,,,,,ol georgie makes some threats,and some hurtful accusations
+1:52:20:13,3,178,14,14,tension+dialogue,drawn R.H. knife; “they will kill you”,,,x,,,,,,,x,,,,,,luisa reckons with her situation,
+1:53:06:02,5,179,25,24,dialogue,“a threat…like you”,x,,,,x,,,,,x,,,,,,sonmi meets general apis,transition emphasized by DB coming into the light at the start of the shot
+1:53:34:17,3,180,14,14,rev shot+actor,KD,,,x,,,,,,,x,,,,,,luisa puzzles some things together,
+1:54:24:22,6,181,20,19,,,,,x,,,x,,,,,,,,,,zachry nearly succumbs to ol georgie,
+1:55:28:22,2,182,13,12,plot,“i have to pay the piper”,,x,,,,,,,,,,,,,,frobisher learns of ayrs’ survival,
+1:55:41:12,3,183,14,14,,,,,x,,,,,,,x,,,,,,a quest is given by KD,
+1:55:56:09,5,184,25,24,actor+plot,KD+questgiving,x,,,,x,,,,,x,,,,,,a quest is given by KD,
+1:56:47:18,6,185,20,19,,,,,x,,,x,,,,,,,,,,meronym completes her mission,and invites zachry along
+1:58:16:16,5,186,26,25,,,,,,c,x,,,,,,,,,,,sonmi listens to heartbeats.. and more,and ayrs’ karma dues are paid
+1:59:36:11,2,187,14,13,,,,x,,,,,,,,,x,,,,,progress letter from frobisher,“and all becomes clear”
+1:59:44:17,1,188,17,17,v.o.,,x,,,,,,,,,,,,x,,,autua and ewing enjoy a sunset,"“wish i could make you see this brightness. don’t worry—all is well. all is so perfectly, damnably well.”"
+1:59:56:11,2,189,15,alt,v.o.,,,x,,,,,,,,,x,,,,,some things are smashed,“i understand now: the boundaries between noise and sound are conventions.”
+2:00:07:04,5,190,26,25,v.o.,,x,,,,x,,,,,,,,,,,sonmi violates some boundaries,“all boundaries are conventions.”
+2:00:14:08,6,191,21,20,v.o.,,,,x,,,x,,,,,,,,,,zachry lends his blanket,“one may transcend a convention if only one can first conceive of doing so.” (completes a timeline palindrome)
+2:00:28:15,5,192,26,25,v.o.,,x,,,,x,,,,,,,,,,,sonmi violates some boundaries (cont),“i can feel your heart beating as clearly as i can feel my own.”
+2:00:38:14,2,193,15,alt,v.o.+score,,,x,,,,,,,,,x,,,,,more things are smashed,
+2:00:40:11,5,194,26,25,v.o.,,x,,,,x,,,,,,,,,,,sonmi violates some boundaries (cont),
+2:00:43:00,2,195,15,alt,v.o.,,,x,,,,,,,,,x,,,,,smashy smashy wakey wakey,“my life extends far beyond the limitations of me.”
+2:00:58:17,1,196,17,17,,,x,,,,,,,,,,,,x,,,a sunset ends and a storm begins,
+2:01:10:22,2,197,16,14,,,,x,,,,x,,,,,,,,,,the manager extracts a fee,but in doing so aids sixsmith later
+2:02:13:10,3,198,15,15,"L cut, literal","letters, again",,,x,,,,,,,x,,,,,,luisa reads the letters again,and javier discovers a clue
+2:02:56:13,4,199,19,18,,,,,,x,,,,,,,,,,,,a trap is laid,and we pick up this timeline after nearly half an hour
+2:03:38:19,1,200,18,18,,door (w/thunder),x,,,,,x,,,,,,,,,,dr goose decides to settle it,
+2:03:47:20,4,201,20,19,,,,,,x,,,,x,,,,,,,,a trap is sprung,and mr neeks speaks
+2:05:10:13,3,202,16,16,action,phone call,,,,,,,x,,,x,,,,,,"another trap is laid, by joe",
+2:05:35:06,4,203,21,20,,,,,,x,,,,x,,,,,,,,some older folk struggle with technology,
+2:06:12:01,3,204,17,17,,door (from within),,,x,,,,,x,,x,,,,,,joe’s trap is primed with its bait,
+2:06:45:12,4,205,21,20,object,car,,,,x,,,,x,,,,,,,,the escape is completed,"i know, i know!"
+2:08:19:09,3,206,17,17,object,car,,,x,,,,,x,,x,,,,,,joe’s trap is sprung,but it doesn’t completely work
+2:08:54:22,1,207,18,18,audio,water+shots,x,,,,,x,,,,,,,x,,,dr goose is interrupted,the establishing shot allows the audio transition but also eases us back here
+2:09:42:17,3,208,17,17,,,,,x,,,,,x,,x,,,,,,"luisa and joe assess, then flee",
+2:10:30:02,4,209,22,21,object,car,,,,x,,,,x,,,,,,,,perhaps they should have found a dive bar,
+2:11:21:04,3,210,17,17,,,,,x,,x,,,x,,x,,,,,,l&j flee and meet a hispanic lady,"also, they escape through a door"
+2:12:14:01,4,211,22,21,,,c,,,x,,,,x,,,,,,,,a good old-fashioned pub brawl,and jim sturgess’ compassion manifests in the funniest ways; this timeline has resolved
+2:13:27:03,3,212,17,17,,,,,,,x,,,x,,,,,,,,smoke meets a hispanic lady,and then runs through a door
+2:13:57:13,1,213,18,18,,,x,,,,,x,,,,,,,,,,dr goose delivers an evil monologue,“the weak are meat; the strong do eat”
+2:14:35:13,3,214,17,17,,,,,x,,x,,,x,,x,,,,,,smoke meets a hispanic lady (cont),the single greatest moment in this film?; this timeline is mostly resolved
+2:15:41:21,1,215,18,18,,,x,,,,,x,,,,,,,x,,,the weak are meat; the strong do eat,and david gyasi busts through a door; this timeline is mostly resolved
+2:17:07:23,6,216,22,21,actor,TH,,,x,,,x,,,,,,,,,,zachry spots a fire in the valley,they really don’t let any of the resolution settle in
+2:17:32:13,5,217,27,26,plot rhythm,final call to action,x,,,,x,,,,,,,,,,,s&hj arrive at an exaltation ship,"also, “oh sonmi, no”"
+2:17:46:09,6,218,23,22,,,,,,,,x,,,,,,,,,,zachry rushes home,
+2:17:53:02,2,219,17,15,,,,x,,,,,,,,,,,,,,"frobisher composes alone, again",
+2:17:59:08,5,220,27,26,"v.o., literal",singing sextet,x,,,,x,,,,,,,,,,,exaltation ship interior,"""the mortal coil has become a noose.”"
+2:18:05:22,2,221,17,15,v.o.,,,x,,,,,,,,,,,,,,frobisher composes alone (cont),
+2:18:11:20,5,222,27,26,"v.o., literal",singing sextet,x,,,,x,,,,,,,,,,,the truth of exaltation is revealed,scene ends with a door slamming shut
+2:19:22:16,6,223,24,23,,,,,,,,x,,,,,,,,,,zachry searches for survivors,and ignores his prophecy-advice
+2:21:35:12,5,224,27,26,,,x,,,,x,,,,,,,,,,,soylent green is people!,
+2:22:25:13,5,225,28,27,,,x,,,,x,,,,,,,,,,,sonmi’s resolve is forged,"again, a rare-at-this-point intra-timeline cut"
+2:23:24:22,2,226,18,16,,,,x,,,,,,,,,,,,,,frobisher completes his work,"right as sonmi begins formulating hers, and right after she hears it in context. it’s a sequel of sorts"
+2:23:37:02,6,227,24,23,,,,,,,,x,x,,,,,,,,,zachry finds catkin; they escape,
+2:24:55:14,5,228,1,29,L cut,,,,,,x,,,,,,x,,,,,setup for the final conflict,"neat trick; rather than have apis or hae joo detail the plan, this is far more perfunctory"
+2:25:10:11,5,229,29,28,,,x,,,,x,,,,,,,,,,,sonmi’s revelation is broadcast,doors are blasted through again
+2:25:42:21,6,230,25,24,,,,,,,,x,x,x,,,,,,,,zachry finds himself back at sloosha's,"this time with catkin involved, he fights bravely"
+2:26:41:03,6,231,2,1,,,c,,,,,x,x,,,,,,,,,flashback to adam’s death,
+2:26:45:01,6,232,25,24,rev shot,,,,x,,,x,x,,,,,,,,,meronym to the rescue,this timeline is mostly resolved
+2:28:09:23,1,233,19,19,,,x,,,,,,,,,,,,x,,,ewing arrives home,“no. thank you.”; broaching dénouement for the first time
+2:28:48:07,3,234,18,18,,,,,x,,,,,,,,,,,,,luisa obtains the report at last,second piece of dénouement
+2:29:39:19,2,235,19,17,L cut (v.o.)+character,talkin bout dad,,x,,,,,,,,,x,,,,,frobisher’s final letter,his last look at sixsmith is through an open doorway
+2:30:26:14,6,236,26,25,,,,,x,c,,x,,,,,,,c,,,zachry and catkin join the prescients,third storyline to hit dénouement
+2:31:24:22,2,237,1,18,L cut (v.o.)/contrast,,,x,,,,c,,,,,x,,,,,frobisher pulls the trigger,frobisher explicitly rejects the possibility of love after z&m embrace theirs; sees it as part of his work/punishment; finally catch up with opening scene; resolves and explicitly ends this timeline
+2:33:08:02,5,238,1,29,actor,JD,,,,,x,,,,,,x,,,,,the archivist completes his interview,back to back scenes highlighting JD’s role as the witness
+2:33:32:08,5,239,29,28,,,x,,,,x,,,,,,,,,,,sonmi’s revelation is broadcast (cont),
+2:34:28:23,5,240,1,29,,,,,x,,,,,,,,x,,,,,“i believe death is only a door.”,"“when it closes, another opens. if i care to imagine heaven, i would imagine a door opening.”"
+2:35:03:22,1,241,20,20,v.o.+actors,DB+JS (re)unite,x,,,,x,,,,,,,,x,,,"“and behind it i would find him there,”",“waiting for me.”; this is one of the more beautiful tricks this film pulls.
+2:35:33:21,5,242,1,29,actor,DB,,,,,x,,,,,,x,,,,,“someone already does.”,this timeline is mostly resolved; the last to do so.
+2:36:33:10,1,243,21,21,,,x,,,,,,,x,,,,,,,,ewing burns the slave contract, 
+2:37:35:17,3,244,19,19,,,,,x,,,,,,,,,,c,,,luisa and javier celebrate,
+2:37:51:14,4,245,1,22,,,,,,x,,,,,x,,,,,,,cavendish writes up his “ordeal”,second reference to solzhenitsyn; final bit of dénouement to commence
+2:38:19:02,1,246,21,21,,,x,,,,x,,,x,,,,,,,,ewing and tilde declare their intentions,"“there is a natural order to this world, and those who try to upend it do not fare well.”; HW tries to get between the couple (blocking)"
+2:39:30:09,5,247,30,30,v.o.+actor,DB,,,,,x,,,x,,,,,,,,sonmi meets her fate,“this movement will never survive.”
+2:40:00:04,1,248,21,21,actor,DB,x,,,,x,,,x,,,,,,,,“what is an ocean but a multitude of drops?”,the key line of the film
+2:40:31:18,6,249,27,26,,,,,x,,,x,,,,,,,,,,the coda,
+2:42:20:20,n/a,,,alt,,,,,,,,,,,,,,,,,,end credits,
